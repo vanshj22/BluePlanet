@@ -1,1 +1,3 @@
 # BluePlanet
+
+Have you ever thought if we can bridge the gap between assessing water quality and how it affects the endangered aquatic species? BluePlanet is a creative mobile application particularly designed to evaluate and understand the impact that the quality of water has on endangered species. Through developing a mobile application, BluePlanet aims to raise awareness and empower users to contribute towards the protection of aquatic endangered species and investigate the different areas where the quality of water is considered "bad".  This project is important because it allows nature enthusiasts to participate in learning about and saving our fragile aquatic ecosystem.
